@@ -1,7 +1,7 @@
 ![242390863-c552be39-25aa-4f5a-8421-54aa11f7131f](https://github.com/user-attachments/assets/792f9a83-c010-40b4-b48b-61bfaa7b2bfa)
 
 > = # 💻 Portfólio Java - Projetos Simples # = <
-> ============================================
+
 
 Este repositório contém sistemas básicos desenvolvidos em Java com foco em **prática, aprendizado e também diversão** 😄.  
 São aplicações simples voltadas para o terminal (linha de comando), com o objetivo de exercitar os fundamentos da linguagem Java de forma clara e direta.
