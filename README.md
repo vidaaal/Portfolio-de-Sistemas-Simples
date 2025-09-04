@@ -3,7 +3,7 @@
 > = # 💻 Portfólio Java - Projetos Simples # = <
 > ============================================
 
-Este repositório contém dois sistemas básicos desenvolvidos em Java com foco em **prática, aprendizado e também diversão** 😄.  
+Este repositório contém sistemas básicos desenvolvidos em Java com foco em **prática, aprendizado e também diversão** 😄.  
 São aplicações simples voltadas para o terminal (linha de comando), com o objetivo de exercitar os fundamentos da linguagem Java de forma clara e direta.
 
 ---
