@@ -48,3 +48,29 @@ O usuário pode registrar novos alunos informando seus dados e visualizar a list
 1 - Adicionar aluno
 2 - Listar alunos
 3 - Sair
+```
+
+## 🚗 Sistema de Concessionária
+
+### ✨ Funcionalidades:
+- Adicionar carros informando **marca, modelo, ano e valor**
+- Listar todos os carros cadastrados
+- Atualizar os dados de um carro específico (marca, modelo, ano e valor)
+- Deletar um carro pelo seu **ID**
+- Aplicar desconto em um carro cadastrado
+
+### 🛠️ Conceitos utilizados:
+- Programação Orientada a Objetos (POO)
+- Criação e manipulação de objetos com classes
+- Uso de listas (`ArrayList`) para armazenar carros
+- Entrada de dados com `Scanner`
+- Estruturas de repetição e condicionais (`while`, `if`, `switch`)
+
+### 💡 Exemplo de uso:
+```bash
+1 - Adicionar Carro
+2 - Listar Carros
+3 - Atualizar Carro
+4 - Deletar Carro
+5 - Aplicar Desconto ao Carro
+6 - Sair
