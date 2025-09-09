@@ -74,3 +74,26 @@ O usuário pode registrar novos alunos informando seus dados e visualizar a list
 4 - Deletar Carro
 5 - Aplicar Desconto ao Carro
 6 - Sair
+```
+
+## 👥 Sistema de Cadastro de Pessoas
+
+### ✨ Funcionalidades:
+
+- Cadastrar pessoa com nome, idade, CPF e sexo
+- Mostrar os dados da pessoa cadastrada
+- Sair do sistema
+
+### 🛠️ Conceitos utilizados:
+
+- Programação Orientada a Objetos (POO)
+- Criação de classes e objetos
+- Controle de fluxo (switch, if)
+- Entrada de dados com Scanne
+
+### 💡 Exemplo de uso:
+```bash
+1 - Cadastrar Pessoa
+2 - Mostrar Pessoa
+3 - Sair
+```
