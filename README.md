@@ -88,8 +88,8 @@ O usuário pode registrar novos alunos informando seus dados e visualizar a list
 
 - Programação Orientada a Objetos (POO)
 - Criação de classes e objetos
-- Controle de fluxo (switch, if)
-- Entrada de dados com Scanne
+- Controle de fluxo (`switch`, `if`)
+- Entrada de dados com `Scanner`
 
 ### 💡 Exemplo de uso:
 ```bash
