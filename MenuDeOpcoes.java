@@ -14,7 +14,7 @@ public class MenuDeOpcoes {
             System.out.println("3. Sair");
             System.out.print("Escolha uma opção: ");
             opcao = scanner.nextInt();
-            scanner.nextLine(); // Consumir a quebra de linha
+            scanner.nextLine(); 
 
             switch (opcao) {
                 case 1:
@@ -22,7 +22,7 @@ public class MenuDeOpcoes {
                     String nome = scanner.nextLine();
                     System.out.print("Digite a idade do aluno: ");
                     int idade = scanner.nextInt();
-                    scanner.nextLine(); // Consumir a quebra de linha
+                    scanner.nextLine();
                     aluno = new Aluno(nome, idade);
                     System.out.println("Aluno cadastrado com sucesso!");
                     break;
