@@ -31,23 +31,17 @@ These are simple command-line applications designed to exercise Java fundamental
 🏦 Bank Account System
 ✨ Features:
 
-Create an account with an initial balance
-
-Deposit money
-
-Withdraw money
-
-Check current balance
+- Create an account with an initial balance
+- Deposit money
+- Withdraw money
+- Check current balance
 
 🛠️ Concepts used:
 
-Object-Oriented Programming (OOP)
-
-Encapsulation
-
-Data input with Scanner
-
-Flow control (if, switch, while)
+- Object-Oriented Programming (OOP)
+- Encapsulation
+- Data input with Scanner
+- Flow control (if, switch, while)
 
 ```
 💡 Example usage:
@@ -60,19 +54,15 @@ Flow control (if, switch, while)
 🎓 Student Registration System
 ✨ Features:
 
-Add students with name, CPF, and age
-
-List all registered students
+- Add students with name, CPF, and age
+- List all registered students
 
 🛠️ Concepts used:
 
-Creating classes and objects
-
-Using lists (ArrayList) to store data
-
-Data input with Scanner
-
-Loops and flow control
+- Creating classes and objects
+- Using lists (ArrayList) to store data
+- Data input with Scanner
+- Loops and flow control
 
 💡 How it works:
 
@@ -87,27 +77,19 @@ The user can register new students by entering their data and view the complete 
 🚗 Car Dealership System
 ✨ Features:
 
-Add cars specifying brand, model, year, and price
-
-List all registered cars
-
-Update the details of a specific car (brand, model, year, and price)
-
-Delete a car by its ID
-
-Apply a discount to a registered car
+- Add cars specifying brand, model, year, and price
+- List all registered cars
+- Update the details of a specific car (brand, model, year, and price)
+- Delete a car by its ID
+- Apply a discount to a registered car
 
 🛠️ Concepts used:
 
-Object-Oriented Programming (OOP)
-
-Creating and manipulating objects with classes
-
-Using lists (ArrayList) to store cars
-
-Data input with Scanner
-
-Loops and conditionals (while, if, switch)
+- Object-Oriented Programming (OOP)
+- Creating and manipulating objects with classes
+- Using lists (ArrayList) to store cars
+- Data input with Scanner
+- Loops and conditionals (while, if, switch)
 
 💡 Example usage:
 ```
@@ -124,19 +106,15 @@ Loops and conditionals (while, if, switch)
 
 Register a person with name, age, CPF, and gender
 
-Show registered person data
-
-Exit the system
+- Show registered person data
+- Exit the system
 
 🛠️ Concepts used:
 
-Object-Oriented Programming (OOP)
-
-Creating classes and objects
-
-Flow control (switch, if)
-
-Data input with Scanner
+- Object-Oriented Programming (OOP)
+- Creating classes and objects
+- Flow control (switch, if)
+- Data input with Scanner
 
 💡 Example usage:
 ```
