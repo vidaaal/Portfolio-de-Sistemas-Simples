@@ -1,99 +1,121 @@
-![242390863-c552be39-25aa-4f5a-8421-54aa11f7131f](https://github.com/user-attachments/assets/792f9a83-c010-40b4-b48b-61bfaa7b2bfa)
+💻 Java Portfolio - Simple Projects
 
-> = # 💻 Portfólio Java - Projetos Simples # = <
+This repository contains basic Java applications focused on practice, learning, and also fun 😄.
+These are simple command-line applications designed to exercise Java fundamentals in a clear and straightforward way.
 
+🏦 Bank Account System
+✨ Features:
 
-Este repositório contém sistemas básicos desenvolvidos em Java com foco em **prática, aprendizado e também diversão** 😄.  
-São aplicações simples voltadas para o terminal (linha de comando), com o objetivo de exercitar os fundamentos da linguagem Java de forma clara e direta.
+Create an account with an initial balance
 
----
+Deposit money
 
-## 🏦 Sistema de Conta Bancária
+Withdraw money
 
-### ✨ Funcionalidades:
-- Criar uma conta com saldo inicial
-- Depositar dinheiro
-- Sacar dinheiro
-- Consultar o saldo atual
+Check current balance
 
-### 🛠️ Conceitos utilizados:
-- Programação Orientada a Objetos (POO)
-- Encapsulamento
-- Entrada de dados com `Scanner`
-- Controle de fluxo (`if`, `switch`, `while`)
+🛠️ Concepts used:
 
-### 💡 Exemplo de uso:
-```bash
-1 - Depositar
-2 - Sacar
-3 - Ver saldo
-4 - Sair
+Object-Oriented Programming (OOP)
+
+Encapsulation
+
+Data input with Scanner
+
+Flow control (if, switch, while)
+
 ```
-## 🎓 Sistema de Registro de Alunos
-
-### ✨ Funcionalidades:
-- Adicionar alunos com nome, CPF e idade
-- Listar todos os alunos cadastrados
-
-### 🛠️ Conceitos utilizados:
-- Criação de classes e objetos
-- Uso de listas (`ArrayList`) para armazenar os dados
-- Entrada de dados com `Scanner`
-- Laços de repetição e controle de fluxo
-
-### 💡 Como funciona:
-O usuário pode registrar novos alunos informando seus dados e visualizar a lista completa de alunos salvos até o momento. Tudo acontece via terminal, de forma simples e intuitiva.
-
-```bash
-1 - Adicionar aluno
-2 - Listar alunos
-3 - Sair
+💡 Example usage:
+1 - Deposit
+2 - Withdraw
+3 - Check balance
+4 - Exit
 ```
 
-## 🚗 Sistema de Concessionária
+🎓 Student Registration System
+✨ Features:
 
-### ✨ Funcionalidades:
-- Adicionar carros informando **marca, modelo, ano e valor**
-- Listar todos os carros cadastrados
-- Atualizar os dados de um carro específico (marca, modelo, ano e valor)
-- Deletar um carro pelo seu **ID**
-- Aplicar desconto em um carro cadastrado
+Add students with name, CPF, and age
 
-### 🛠️ Conceitos utilizados:
-- Programação Orientada a Objetos (POO)
-- Criação e manipulação de objetos com classes
-- Uso de listas (`ArrayList`) para armazenar carros
-- Entrada de dados com `Scanner`
-- Estruturas de repetição e condicionais (`while`, `if`, `switch`)
+List all registered students
 
-### 💡 Exemplo de uso:
-```bash
-1 - Adicionar Carro
-2 - Listar Carros
-3 - Atualizar Carro
-4 - Deletar Carro
-5 - Aplicar Desconto ao Carro
-6 - Sair
+🛠️ Concepts used:
+
+Creating classes and objects
+
+Using lists (ArrayList) to store data
+
+Data input with Scanner
+
+Loops and flow control
+
+💡 How it works:
+
+The user can register new students by entering their data and view the complete list of saved students. Everything happens via terminal in a simple and intuitive way.
+
+```
+1 - Add student
+2 - List students
+3 - Exit
 ```
 
-## 👥 Sistema de Cadastro de Pessoas
+🚗 Car Dealership System
+✨ Features:
 
-### ✨ Funcionalidades:
+Add cars specifying brand, model, year, and price
 
-- Cadastrar pessoa com nome, idade, CPF e sexo
-- Mostrar os dados da pessoa cadastrada
-- Sair do sistema
+List all registered cars
 
-### 🛠️ Conceitos utilizados:
+Update the details of a specific car (brand, model, year, and price)
 
-- Programação Orientada a Objetos (POO)
-- Criação de classes e objetos
-- Controle de fluxo (`switch`, `if`)
-- Entrada de dados com `Scanner`
+Delete a car by its ID
 
-### 💡 Exemplo de uso:
-```bash
-1 - Cadastrar Pessoa
-2 - Mostrar Pessoa
-3 - Sair
+Apply a discount to a registered car
+
+🛠️ Concepts used:
+
+Object-Oriented Programming (OOP)
+
+Creating and manipulating objects with classes
+
+Using lists (ArrayList) to store cars
+
+Data input with Scanner
+
+Loops and conditionals (while, if, switch)
+
+💡 Example usage:
+```
+1 - Add Car
+2 - List Cars
+3 - Update Car
+4 - Delete Car
+5 - Apply Discount to Car
+6 - Exit
+```
+
+👥 Person Registration System
+✨ Features:
+
+Register a person with name, age, CPF, and gender
+
+Show registered person data
+
+Exit the system
+
+🛠️ Concepts used:
+
+Object-Oriented Programming (OOP)
+
+Creating classes and objects
+
+Flow control (switch, if)
+
+Data input with Scanner
+
+💡 Example usage:
+```
+1 - Register Person
+2 - Show Person
+3 - Exit
 ```
