@@ -16,7 +16,7 @@ public class ContaBancaria {
 
             System.out.print("Escolha uma opção: ");
             opcao = scanner.nextInt();
-            scanner.nextLine(); // Limpa buffer
+            scanner.nextLine();
 
             switch (opcao) {
                 case 1:
