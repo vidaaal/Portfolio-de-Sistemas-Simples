@@ -6,7 +6,7 @@ public class Carro {
     private String modelo;
     private int ano;
     private double valor;
-    private double desconto; // porcentagem de desconto
+    private double desconto; 
 
     public Carro(String marca, String modelo, int ano, double valor) {
         this.marca = marca;
