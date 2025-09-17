@@ -4,7 +4,7 @@ public class MenuDeOpcoes {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        Aluno aluno = null; // Variável para armazenar o aluno cadastrado
+        Aluno aluno = null; 
         int opcao;
 
         do {
