@@ -14,7 +14,7 @@ public class MenuDeOpcoesAluno {
             System.out.println("3. Sair");
             System.out.print("Escolha uma opção: ");
             opcao = scanner.nextInt();
-            scanner.nextLine(); // Limpa buffer
+            scanner.nextLine(); 
 
             switch (opcao) {
                 case 1:
@@ -22,10 +22,10 @@ public class MenuDeOpcoesAluno {
                     String nome = scanner.nextLine();
                     System.out.print("Digite a idade: ");
                     int idade = scanner.nextInt();
-                    scanner.nextLine(); // Limpa buffer
+                    scanner.nextLine();
                     System.out.print("Digite o Registro de Matrícula (CPF): ");
                     int cpf = scanner.nextInt();
-                    scanner.nextLine(); // Limpa buffer
+                    scanner.nextLine(); 
 
                     aluno = new Aluno(nome, idade, cpf);
                     break;
